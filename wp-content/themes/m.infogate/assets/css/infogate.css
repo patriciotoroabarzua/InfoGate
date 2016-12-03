@@ -1,0 +1,158 @@
+img.logo{
+	max-height: 40px;
+}
+div#page {
+    height: 50px;
+    z-index:9;
+}
+#header{
+	background: #fff;
+	border-bottom: 1px solid #E0E0E0;
+}
+.blog-articlas {
+    margin-top: 50px;
+}
+.block-pu img {
+    width: 100%;
+}
+.contenido img,.contenido iframe{
+	width: 100%;
+    height: auto;
+}
+.blog-articla-grids .author{
+	font-size: 80%;
+	font-style: italic;  
+}
+.blog-articla-grids.dark{
+	padding-top: 0.5px;
+    margin-top: 3px; 
+}
+.blog-articla-grid-content .blog-articla-grid-info .title{
+	line-height: 0.5px;
+	font-size: 1em;
+}
+.contador-mas-leido p {
+    font-size: 20px;
+    padding-top: 20px !important;
+}
+.img-circle{
+	border-radius: 100%;
+	width: 100px;
+	height: 100px;
+}
+.img-circle-75{
+	border-radius: 100%;
+    width: 75px;
+    height: 75px;
+}
+
+.contain-fixed{
+	position: fixed;
+    margin-right: 12px;
+}
+.float-right{
+	float: right;
+}
+.border-limit-gray{
+	border-bottom: 1px solid #cfcfcf;
+}
+.border-limit-blue{
+	border-bottom: 1px solid #0083AF;
+}
+.border-limit-opinion{
+	border-bottom: 2px solid #0083AF;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+.background-blue {
+	background-color: #0083AF;
+}
+.background-darkblue{
+	background-color: #024454;
+}
+.background-lightgray{
+	background-color: #f7f7f7;
+}
+.background-gray{
+	background-color: #cfcfcf;
+}
+.align-center{
+	text-align: center;
+}
+.width-50 {
+    width: 50%;
+    float: left;
+}
+.width-20 {
+    width: 20%;
+    float: left;
+}
+.width-80 {
+    width: 80%;
+    float: left;
+}
+.width-30 {
+    width: 30%;
+    float: left;
+}
+.width-70 {
+    width: 70%;
+    float: left;
+}
+.width-40 {
+    width: 40%;
+    float: left;
+}
+.width-60 {
+    width: 60%;
+    float: left;
+}
+.margin-0{
+	margin: 0;
+}
+.margin-bottom-5{
+	margin-bottom: 5px;
+}
+.margin-10 {
+    margin: 10px;
+}
+.padding-5{
+	padding: 5px;
+}
+.padding-2{
+	padding: 2px;
+}
+.color-white{
+	color: #fff !important;
+}
+.color-black{
+	color: #000 !important;
+}
+nav#menu-left li a {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    color: #fff;
+    line-height: 20px;
+    display: block;
+    padding: 10px 10px 10px 15px;
+    font-weight: 400;
+    margin: 0;
+}
+nav#menu-left {
+    background: #222;
+    z-index: 9;
+}
+nav#menu-left div.rss {
+    left: 0%;
+    top: 70%;
+}
+img.size-full {
+    height: auto;
+    width: 100%;
+}
+.relacionados {
+    height: 500px;
+    overflow: hidden;
+}
